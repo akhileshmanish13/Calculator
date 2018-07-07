@@ -6,11 +6,11 @@ Simple GUI calculator made in python by using tkinter
 (some work is needed to be done)
 
 ```
-I have used grids, packs, entry
+I have used pack, grid, button package module in pycharm
 
 ```
 
-#Screenshots
+# Screenshots
 ![alt text](https://github.com/akhileshmanish13/Calculator/blob/master/calci.PNG)
 ![alt text](https://github.com/akhileshmanish13/Calculator/blob/master/calci5.PNG)
 ![alt text](https://github.com/akhileshmanish13/Calculator/blob/master/Calci1.PNG)
