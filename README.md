@@ -2,7 +2,7 @@
 
 # Calculator in Python
 
-Simple GUI calculator made in python by using tkinter. It can add only two numbers
+Simple GUI calculator made in python by using tkinter. It can operate only two numbers
 (some work is needed to be done)
 
 ```
